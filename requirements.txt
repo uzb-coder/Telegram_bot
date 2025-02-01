@@ -1,2 +1,2 @@
-vkwave
-imdbpy
+telebot
+instaloader
